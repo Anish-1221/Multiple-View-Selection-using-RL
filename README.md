@@ -1,4 +1,4 @@
-# Multi-View RL Algorithm Comparison
+# Multi-View RL
 
 This repository contains code for training and comparing multiple reinforcement learning algorithms for multi-view selection in videos. The system supports PPO, A2C, and DQN algorithms.
 
