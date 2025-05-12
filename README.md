@@ -62,7 +62,7 @@ We implemented three reinforcement learning algorithms (PPO, A2C, and DQN), with
 3. Make sure your dataset is correctly structured:
    ```
    /path/to/dataset/
-   └── ego4. Make sure your feature directory is correctly structured:
+   └── ego4.
    ```
    ```
    /path/to/features/
